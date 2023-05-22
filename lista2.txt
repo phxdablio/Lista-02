@@ -1,0 +1,4 @@
+Aluno: Pedro Henrique Oliveira Marques
+Matricula: UC22103216
+
+LINK: https://github.com/phxdablio/Lista-02/blob/main/Lista%202.cpp
